@@ -1,0 +1,15 @@
+C:\Users\amit.verma\OneDrive - Optimus Information Inc\Desktop\PointOfSale.WebAPI\PointOfSale.Application\bin\Debug\net9.0\PointOfSale.Application.deps.json
+C:\Users\amit.verma\OneDrive - Optimus Information Inc\Desktop\PointOfSale.WebAPI\PointOfSale.Application\bin\Debug\net9.0\PointOfSale.Application.dll
+C:\Users\amit.verma\OneDrive - Optimus Information Inc\Desktop\PointOfSale.WebAPI\PointOfSale.Application\bin\Debug\net9.0\PointOfSale.Application.pdb
+C:\Users\amit.verma\OneDrive - Optimus Information Inc\Desktop\PointOfSale.WebAPI\PointOfSale.Application\bin\Debug\net9.0\PointOfSale.Domain.dll
+C:\Users\amit.verma\OneDrive - Optimus Information Inc\Desktop\PointOfSale.WebAPI\PointOfSale.Application\bin\Debug\net9.0\PointOfSale.Domain.pdb
+C:\Users\amit.verma\OneDrive - Optimus Information Inc\Desktop\PointOfSale.WebAPI\PointOfSale.Application\obj\Debug\net9.0\PointOfSale.Application.csproj.AssemblyReference.cache
+C:\Users\amit.verma\OneDrive - Optimus Information Inc\Desktop\PointOfSale.WebAPI\PointOfSale.Application\obj\Debug\net9.0\PointOfSale.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amit.verma\OneDrive - Optimus Information Inc\Desktop\PointOfSale.WebAPI\PointOfSale.Application\obj\Debug\net9.0\PointOfSale.Application.AssemblyInfoInputs.cache
+C:\Users\amit.verma\OneDrive - Optimus Information Inc\Desktop\PointOfSale.WebAPI\PointOfSale.Application\obj\Debug\net9.0\PointOfSale.Application.AssemblyInfo.cs
+C:\Users\amit.verma\OneDrive - Optimus Information Inc\Desktop\PointOfSale.WebAPI\PointOfSale.Application\obj\Debug\net9.0\PointOfSale.Application.csproj.CoreCompileInputs.cache
+C:\Users\amit.verma\OneDrive - Optimus Information Inc\Desktop\PointOfSale.WebAPI\PointOfSale.Application\obj\Debug\net9.0\PointOfS.A1EEB756.Up2Date
+C:\Users\amit.verma\OneDrive - Optimus Information Inc\Desktop\PointOfSale.WebAPI\PointOfSale.Application\obj\Debug\net9.0\PointOfSale.Application.dll
+C:\Users\amit.verma\OneDrive - Optimus Information Inc\Desktop\PointOfSale.WebAPI\PointOfSale.Application\obj\Debug\net9.0\refint\PointOfSale.Application.dll
+C:\Users\amit.verma\OneDrive - Optimus Information Inc\Desktop\PointOfSale.WebAPI\PointOfSale.Application\obj\Debug\net9.0\PointOfSale.Application.pdb
+C:\Users\amit.verma\OneDrive - Optimus Information Inc\Desktop\PointOfSale.WebAPI\PointOfSale.Application\obj\Debug\net9.0\ref\PointOfSale.Application.dll

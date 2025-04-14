@@ -1,0 +1,58 @@
+@PointOfSale.WebAPI_HostAddress = https://localhost:7142
+
+GET {{PointOfSale.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+POST {{PointOfSale.WebAPI_HostAddress}}/AddItem
+Content-Type: application/json
+
+{
+    "Name" : "Gaming Laptop",
+    "Price" : 60000,
+    "Description" : "A Powerful Gaming Laptop",
+    "Stock" : 10
+}
+
+###
+
+POST {{PointOfSale.WebAPI_HostAddress}}/AddItem
+Content-Type: application/json
+
+{
+  //ItemDto
+}
+
+###
+
+POST {{PointOfSale.WebAPI_HostAddress}}/AddItem
+Content-Type: application/json
+
+{
+  //ItemDto
+}
+
+###
+
+POST {{PointOfSale.WebAPI_HostAddress}}/AddItem
+Content-Type: application/json
+
+{
+  //ItemDto
+}
+
+###
+
+POST {{PointOfSale.WebAPI_HostAddress}}/AddItem
+Content-Type: application/json
+
+{
+  //ItemDto
+}
+
+###
+
+GET {{PointOfSale.WebAPI_HostAddress}}/GetAllItems
+
+###

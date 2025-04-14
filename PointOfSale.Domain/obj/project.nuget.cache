@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6Lv7+Gndzwo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\amit.verma\\OneDrive - Optimus Information Inc\\Desktop\\PointOfSale.WebAPI\\PointOfSale.Domain\\PointOfSale.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amit.verma\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.4\\microsoft.extensions.dependencyinjection.9.0.4.nupkg.sha512",
+    "C:\\Users\\amit.verma\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.4\\microsoft.extensions.dependencyinjection.abstractions.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,186 @@
+[
+  {
+    "ContainingType": "PointOfSale.WebAPI.Controllers.ItemController",
+    "Method": "AddItemAsync",
+    "RelativePath": "api/Item/AddItem",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "itemDto",
+        "Type": "PointOfSale.Application.DTOs.ItemDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PointOfSale.WebAPI.Controllers.ItemController",
+    "Method": "DeleteItemAsync",
+    "RelativePath": "api/Item/DeleteItem/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PointOfSale.WebAPI.Controllers.ItemController",
+    "Method": "GetAllItemsAsync",
+    "RelativePath": "api/Item/GetAllItems",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PointOfSale.WebAPI.Controllers.ItemController",
+    "Method": "UpdateItemAsync",
+    "RelativePath": "api/Item/UpdateItem/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateItemDto",
+        "Type": "PointOfSale.Application.DTOs.UpdateItemDto",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PointOfSale.WebAPI.Controllers.OrderController",
+    "Method": "CreateOrderAsync",
+    "RelativePath": "api/Order/CreateOrder",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "orderCreateDto",
+        "Type": "PointOfSale.Application.DTOs.OrderCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PointOfSale.WebAPI.Controllers.OrderController",
+    "Method": "GetAllOrdersAsync",
+    "RelativePath": "api/Order/GetAllOrders",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PointOfSale.WebAPI.Controllers.OrderController",
+    "Method": "GetOrderByIdAsync",
+    "RelativePath": "api/Order/GetOrder/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PointOfSale.WebAPI.Controllers.OrderController",
+    "Method": "GetOrdersByUserIdAsync",
+    "RelativePath": "api/Order/GetOrdersByUserId/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PointOfSale.WebAPI.Controllers.OrderController",
+    "Method": "UpdateOrderStageAsync",
+    "RelativePath": "api/Order/UpdateOrderStage/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "stage",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PointOfSale.WebAPI.Controllers.UserController",
+    "Method": "GetAllUsersAsync",
+    "RelativePath": "api/User/GetAllUsers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PointOfSale.WebAPI.Controllers.UserController",
+    "Method": "LoginAsync",
+    "RelativePath": "api/User/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userLoginDto",
+        "Type": "PointOfSale.Application.DTOs.UserLoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PointOfSale.WebAPI.Controllers.UserController",
+    "Method": "RegisterAsync",
+    "RelativePath": "api/User/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userCreateDto",
+        "Type": "PointOfSale.Application.DTOs.UserCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

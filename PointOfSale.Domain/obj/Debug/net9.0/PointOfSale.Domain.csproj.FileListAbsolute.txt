@@ -1,0 +1,12 @@
+C:\Users\amit.verma\OneDrive - Optimus Information Inc\Desktop\PointOfSale.WebAPI\PointOfSale.Domain\bin\Debug\net9.0\PointOfSale.Domain.deps.json
+C:\Users\amit.verma\OneDrive - Optimus Information Inc\Desktop\PointOfSale.WebAPI\PointOfSale.Domain\bin\Debug\net9.0\PointOfSale.Domain.dll
+C:\Users\amit.verma\OneDrive - Optimus Information Inc\Desktop\PointOfSale.WebAPI\PointOfSale.Domain\bin\Debug\net9.0\PointOfSale.Domain.pdb
+C:\Users\amit.verma\OneDrive - Optimus Information Inc\Desktop\PointOfSale.WebAPI\PointOfSale.Domain\obj\Debug\net9.0\PointOfSale.Domain.csproj.AssemblyReference.cache
+C:\Users\amit.verma\OneDrive - Optimus Information Inc\Desktop\PointOfSale.WebAPI\PointOfSale.Domain\obj\Debug\net9.0\PointOfSale.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amit.verma\OneDrive - Optimus Information Inc\Desktop\PointOfSale.WebAPI\PointOfSale.Domain\obj\Debug\net9.0\PointOfSale.Domain.AssemblyInfoInputs.cache
+C:\Users\amit.verma\OneDrive - Optimus Information Inc\Desktop\PointOfSale.WebAPI\PointOfSale.Domain\obj\Debug\net9.0\PointOfSale.Domain.AssemblyInfo.cs
+C:\Users\amit.verma\OneDrive - Optimus Information Inc\Desktop\PointOfSale.WebAPI\PointOfSale.Domain\obj\Debug\net9.0\PointOfSale.Domain.csproj.CoreCompileInputs.cache
+C:\Users\amit.verma\OneDrive - Optimus Information Inc\Desktop\PointOfSale.WebAPI\PointOfSale.Domain\obj\Debug\net9.0\PointOfSale.Domain.dll
+C:\Users\amit.verma\OneDrive - Optimus Information Inc\Desktop\PointOfSale.WebAPI\PointOfSale.Domain\obj\Debug\net9.0\refint\PointOfSale.Domain.dll
+C:\Users\amit.verma\OneDrive - Optimus Information Inc\Desktop\PointOfSale.WebAPI\PointOfSale.Domain\obj\Debug\net9.0\PointOfSale.Domain.pdb
+C:\Users\amit.verma\OneDrive - Optimus Information Inc\Desktop\PointOfSale.WebAPI\PointOfSale.Domain\obj\Debug\net9.0\ref\PointOfSale.Domain.dll
