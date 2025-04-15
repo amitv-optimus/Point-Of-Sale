@@ -17,6 +17,22 @@
   },
   {
     "ContainingType": "PointOfSale.WebAPI.Controllers.ItemController",
+    "Method": "AddItemsAsync",
+    "RelativePath": "api/Item/AddItems/bulk",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "itemsDto",
+        "Type": "System.Collections.Generic.ICollection\u00601[[PointOfSale.Application.DTOs.ItemDto, PointOfSale.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PointOfSale.WebAPI.Controllers.ItemController",
     "Method": "DeleteItemAsync",
     "RelativePath": "api/Item/DeleteItem/{id}",
     "HttpMethod": "DELETE",
@@ -39,6 +55,22 @@
     "IsController": true,
     "Order": 0,
     "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PointOfSale.WebAPI.Controllers.ItemController",
+    "Method": "GetItemByIdAsync",
+    "RelativePath": "api/Item/GetItem/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": []
   },
   {

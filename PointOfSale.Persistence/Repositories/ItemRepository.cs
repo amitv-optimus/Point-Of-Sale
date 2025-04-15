@@ -14,6 +14,13 @@ namespace PointOfSale.Persistence.Repositories
             return item;
         }
 
+        public async Task<ICollection<Item>> AddItems(ICollection<Item> items)
+        {
+            appDbContext.AddRange(items);
+            await appDbContext.SaveChangesAsync();
+            return items;
+        }
+
         public async Task<Guid> DeleteItem(Guid id)
         {
             var item = await appDbContext.Items.FirstOrDefaultAsync(i => i.Id == id);
